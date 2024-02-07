@@ -17,6 +17,10 @@ std::pair<std::string, int> getInput();
 // > Discuss how your recursive case should look like
 //////////////////////////////////////////////////////////////////////////////
 
+bool FindBook(bookShelf, int index, targetValue) {
+    
+}
+
 int main()
 {
     Book tgg("The Great Gatsby", 975, 4.99);
